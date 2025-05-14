@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/azamatgizzatullin/Downloads/home 10/ubuntu/mosaic_project/venv/bin/python3" "$0" "$@"
+'''exec' "/Users/azamatgizzatullin/Downloads/home 10/ubuntu/mosaic_project/venv/bin/python3.11" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

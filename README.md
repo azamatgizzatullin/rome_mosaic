@@ -42,7 +42,7 @@ mosaic_project/
 **Пример команды для запуска:**
 
 ```bash
-python main.py --input_image ./input_image/appolo.jpg --output_dir ./output_results
+python main.py --input_image ./input_image/appolo.jpg --output_dir ./output_results --num_colors 16
 ```
 
 Эта команда:
